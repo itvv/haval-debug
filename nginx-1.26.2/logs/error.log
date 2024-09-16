@@ -53,3 +53,13 @@
 2024/09/03 15:58:54 [error] 11108#7456: *5 CreateFile() "C:/Users/A0054631/Desktop/haval/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "https://127.0.0.1/"
 2024/09/03 15:59:09 [error] 11108#7456: *11 CreateFile() "C:/Users/A0054631/Desktop/haval/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "dzsms.gwm.com.cn", referrer: "https://dzsms.gwm.com.cn/"
 2024/09/03 19:25:50 [error] 9160#10916: *5 CreateFile() "C:/Users/A0054631/Desktop/haval/html/favicon.ico" failed (2: The system cannot find the file specified), client: 192.168.255.84, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.255.84", referrer: "http://192.168.255.84/"
+2024/09/15 16:40:36 [emerg] 13084#13088: CreateDirectory() "C:\Users\zhang\Desktop\haval\nginx-1.26.2/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2024/09/15 16:44:31 [notice] 3252#9044: signal process started
+2024/09/15 16:44:31 [error] 3252#9044: OpenEvent("Global\ngx_reload_13884") failed (2: The system cannot find the file specified)
+2024/09/15 16:44:43 [emerg] 5396#9028: CreateDirectory() "C:\Users\zhang\Desktop\haval\nginx-1.26.2/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2024/09/15 16:45:16 [emerg] 12868#12860: CreateDirectory() "C:\Users\zhang\Desktop\haval\nginx-1.26.2/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2024/09/15 16:47:08 [emerg] 3212#8844: CreateDirectory() "C:\Users\zhang\Desktop\haval\nginx-1.26.2/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2024/09/15 16:50:01 [emerg] 4608#3488: CreateDirectory() "C:\Users\zhang\Desktop\haval\nginx-1.26.2/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2024/09/15 16:50:08 [emerg] 4408#8852: CreateDirectory() "C:\Users\zhang\Desktop\haval\nginx-1.26.2/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2024/09/15 16:50:59 [error] 11600#4324: *1 CreateFile() "C:/Users/zhang/Desktop/haval/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2024/09/15 16:51:01 [error] 11600#4324: *3 CreateFile() "C:/Users/zhang/Desktop/haval/html/favicon.ico" failed (2: The system cannot find the file specified), client: 192.168.126.84, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.126.84", referrer: "http://192.168.126.84/"

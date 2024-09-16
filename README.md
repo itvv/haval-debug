@@ -16,11 +16,11 @@ git clone https://github.com/itvv/haval-debug.git
 root C:/Users/Haval/Desktop/haval-debug/html;
 
 # 证书
-ssl_certificate    C:/Users/Haval/Desktop/haval-debug/cert/fullchain.pem;
-ssl_certificate_key    C:/Users/Haval/Desktop/haval-debug/cert/privkey.pem;
+ssl_certificate    C:/Users/haval/Desktop/haval-debug/cert/fullchain.pem;
+ssl_certificate_key    C:/Users/haval/Desktop/haval-debug/cert/privkey.pem;
 
 ```
-修改```C:/Users/Haval/Desktop``` 为仓库下载所在位置
+修改```C:/Users/haval/Desktop``` 为仓库下载所在位置
 
 ### 运行nginx
 详见[windows系统下安装配置nginx](https://www.jianshu.com/p/f8cad88c5e64)
@@ -32,8 +32,8 @@ ssl_certificate_key    C:/Users/Haval/Desktop/haval-debug/cert/privkey.pem;
 	"code": 200,
 	"message": "查询成功",
 	"data": {
-		"apk_version": "3.1",
-		"apk_url": "https://dzsms.gwm.com.cn/apk/app_debug_mode_v_3.1.apk",
+		"apk_version": "2024",
+		"apk_url": "https://dzsms.gwm.com.cn/apk/app_debug_mode.apk",
 		"apk_msg": "恭喜成功",
 		"isUpdate": "Yes",
 		"apk_forceUpdate": "Yes",
